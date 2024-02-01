@@ -1,0 +1,27 @@
+/* src/components/Menu.css */
+.menu-card {
+    transition: transform 0.2s ease-in-out;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .menu-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .menu-card .MuiCardContent-root {
+    background-color: #f8f9fa;
+  }
+  
+  .menu-card .MuiTypography-root {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .menu-card .MuiTypography-body2 {
+    color: #666;
+  }
+  
