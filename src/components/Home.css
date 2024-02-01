@@ -12,16 +12,16 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
-  .menu-card .MuiCardContent-root {
+  .menu-card .card-body {
     background-color: #f8f9fa;
   }
   
-  .menu-card .MuiTypography-root {
+  .menu-card .card-title {
     font-size: 1.2rem;
     color: #333;
   }
   
-  .menu-card .MuiTypography-body2 {
+  .menu-card .card-text {
     color: #666;
   }
   
